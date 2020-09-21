@@ -8,13 +8,12 @@ Our article describing the system was submitted for publication at the Journal o
 
 The following supplementary video to our research paper shows the system in action. 
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/zoT2YP7mgBQ/0.jpg)](https://www.youtube.com/watch?v=zoT2YP7mgBQ)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/if1KRkfG_do/0.jpg)](https://www.youtube.com/watch?v=if1KRkfG_do)
 
 **Controlling a real prosthesis**  
-General setup, EMG pattern recognition ([0:06](https://youtu.be/zoT2YP7mgBQ?t=6)), Two pre- and posttest trials ([0:34](https://youtu.be/zoT2YP7mgBQ?t=35) to 1:38)
+General setup, EMG pattern recognition ([0:06](https://youtu.be/if1KRkfG_do?t=6)), Two pre- and posttest trials ([0:34](https://youtu.be/if1KRkfG_do?t=35) to 1:38)
 
 **Controlling a virtual prosthesis in augmented reality**  
-General setup, EMG pattern recognition ([1:39](https://youtu.be/zoT2YP7mgBQ?t=99)), Eight AR intervention trials ([2:27](https://youtu.be/zoT2YP7mgBQ?t=147) to 5:03)
+General setup, EMG pattern recognition ([1:39](https://youtu.be/if1KRkfG_do?t=99)), Eight AR intervention trials ([2:27](https://youtu.be/if1KRkfG_do?t=147) to 5:03)
 
 ## Documentation
-
