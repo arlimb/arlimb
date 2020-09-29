@@ -22,18 +22,6 @@ public class ForceBar : MonoBehaviour {
         transform.localScale = new Vector3(appliedForce, transform.localScale.y, transform.localScale.z);
     }
 
-    void LateUpdate()
-    {
-        if (Vuforia.CylinderTargetTrackableEventHandler.isTracked)
-        {
-            foreach (Renderer r in transform.parent.GetComponentsInChildren<Renderer>())
-            {
-                r.enabled = activateRenderer;
-            }
-        }
-    }
-    
-
     public void SetAppliedForce(float force)
     {
         appliedForce = force;
